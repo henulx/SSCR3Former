@@ -6,5 +6,6 @@
 
 Python 3.8.3
 PyTorch 1.7
+Cuda 12.4
 
 
